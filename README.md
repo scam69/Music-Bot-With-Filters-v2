@@ -40,15 +40,11 @@ If you decide to use this Bot, [check out this Github repo first](https://github
  
  **5.** start the bot with **`node index.js`**<br/>
  
- [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Music-Bot-With-Filters-v2)](https://repl.it/github/navaneethkm004/Music-Bot-With-Filters-v2)</br>
 
-## **TUTORIAL** 
 
-Watch tutorial on YouTube!!<br/>
 
-[<img src="https://github.com/navaneethkm004/my-images/blob/main/Yellow%20Simple%20Education%20YouTube%20Channel%20Art.png?raw=true" width="917" height="515">](https://www.youtube.com/watch?v=IPv1uWSKC-Q)<br/>
 
-Please subscribe my YT channel and like the video.
+
 
 ## Usage - config.json
 
@@ -73,7 +69,7 @@ It is important that you fill in every item of the JSON FILE! every emoji used i
 ## SUPPORT ME
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/navaneethkm" target="_blank" style="display: inline-block;">
+           
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
